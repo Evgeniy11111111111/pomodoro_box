@@ -1,0 +1,20 @@
+.svgBasket {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 4px;
+}
+
+.text {
+  margin-right: 11px;
+}
+
+.count {
+  background-color: var(--accent);
+  height: 20px;
+  width: 20px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
